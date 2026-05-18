@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como parte de um desafio prático da **DIO (Digita
 ## 📐 Modelo do Grafo
 
 O esquema abaixo demonstra a arquitetura de dados gerada através do comando `CALL db.schema.visualization()` no ambiente do Neo4j Aura:
-`esquema.png`
+![Esquema do Grafo](esquema.png)
 ---
 
 ## 💾 Código do Projeto
