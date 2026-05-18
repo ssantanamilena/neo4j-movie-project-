@@ -1,2 +1,6 @@
 # neo4j-movie-project-
-Este projeto foi desenvolvido como parte de um desafio da DIO (Digital Innovation One) para aprofundamento em modelagem de dados com Neo4j.
+Projeto de modelagem de dados em grafos utilizando Neo4j para simular uma plataforma de streaming.
+
+O sistema representa usuários, filmes e séries conectados por relacionamentos de consumo e avaliação, permitindo explorar padrões de comportamento e gerar recomendações baseadas em similaridade.
+
+A abordagem em grafos foi escolhida por sua capacidade de representar relacionamentos complexos de forma natural, facilitando consultas analíticas e recomendações em tempo real.
